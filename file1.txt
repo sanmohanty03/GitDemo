@@ -1,1 +1,2 @@
 This is file1.
+Line added by person 2 from session2
